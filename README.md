@@ -1,6 +1,6 @@
 [![Latest Stable Version](https://poser.pugx.org/pmvc-app/hello_app/v/stable)](https://packagist.org/packages/pmvc-app/hello_app) 
 [![Latest Unstable Version](https://poser.pugx.org/pmvc-app/hello_app/v/unstable)](https://packagist.org/packages/pmvc-app/hello_app) 
-[![Build Status](https://travis-ci.org/pmvc-app/hello_app.svg?branch=master)](https://travis-ci.org/pmvc-app/hello_app)
+[![CircleCI](https://circleci.com/gh/pmvc-app/hello_app/tree/main.svg?style=svg)](https://circleci.com/gh/pmvc-app/hello_app/tree/main)
 [![License](https://poser.pugx.org/pmvc-app/hello_app/license)](https://packagist.org/packages/pmvc-app/hello_app)
 [![Total Downloads](https://poser.pugx.org/pmvc-app/hello_app/downloads)](https://packagist.org/packages/pmvc-app/hello_app) 
 
